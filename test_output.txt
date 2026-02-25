@@ -1,0 +1,9 @@
+    Finished `release` profile [optimized] target(s) in 3.43s
+    Finished `test` profile [unoptimized + debuginfo] target(s) in 2.56s
+     Running unittests src/lib.rs (/mnt/c/Users/Asus/Desktop/mancer-work-folder/solana-finaltest/solana-crowdfund/target/debug/deps/solana_crowdfund-be92f7b69f685456)
+
+Found a 'test' script in the Anchor.toml. Running it as a test suite!
+
+Running test suite: "/mnt/c/Users/Asus/Desktop/mancer-work-folder/solana-finaltest/solana-crowdfund/Anchor.toml"
+
+Error: node failed: Permission denied (os error 13)

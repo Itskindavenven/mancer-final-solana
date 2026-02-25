@@ -1,0 +1,1 @@
+/mnt/c/Users/Asus/AppData/Roaming/npm/yarn: 11: exec: node: Permission denied
